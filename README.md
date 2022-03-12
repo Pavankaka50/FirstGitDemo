@@ -1,3 +1,2 @@
 # FirstGitDemo
-welcome to git hub
-Data Changed from Local repository
+welcome to git new branch
