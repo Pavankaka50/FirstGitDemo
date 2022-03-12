@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<education>
-<institute-name>MRIT</institute-name>
-<institute-location>dhullapalli</institute-location>
-</education>
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+ <name>PavanKumar</name>
+ <location>Hyderabad</location>
+ <proper>Ongole</proper>
+ <email>pavanraju4608@gmail.com</email>
+ <skill>.Net</skill>
+</details>
